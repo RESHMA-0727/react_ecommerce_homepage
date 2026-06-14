@@ -37,3 +37,29 @@
   border-radius: 10px;
 }
 
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 75px;
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.right{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 30%;
+}
+
+.footer{
+  display: flex;
+  background-color: orange;
+  font-weight: bold;
+  justify-content: space-around;
+  height: 300px;
+  padding: 20px;
+}
+
